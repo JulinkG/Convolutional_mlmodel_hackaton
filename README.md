@@ -1,1 +1,1 @@
-### PicData Modelo de redes convolucionales para verificación
+# PicData Modelo de redes convolucionales para verificación
