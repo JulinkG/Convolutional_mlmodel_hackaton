@@ -8,4 +8,4 @@ Los modelos utilizados se dividen en momentos, en un primer momento son identifi
 
 Por los resultados obtenidos, el modelo convolucional aumentado es el elegido para el despliegue de este escenario. (Verificar tablas con tensorboard dentro del scrip)
 
-Dentro de la primera parte titulada *Entrenamiento* se puede encontrar paso a paso el seguimiento de las necesidades del entrenamiento y la explicación de la base de datos utilizada dentro del mismo. En el segundo apartado se puede encontrar el diseño web de la cámara asociada al modelo, la cuál se desplegará de momento por un servidor local expandido por NGROK.
+Dentro de la primera parte titulada *Clasificador* se puede encontrar paso a paso el seguimiento de las necesidades del entrenamiento y la explicación de la base de datos utilizada dentro del mismo. En el segundo apartado se puede encontrar el diseño web de la cámara asociada al modelo, la cuál se desplegará de momento por un servidor local expandido por NGROK.
