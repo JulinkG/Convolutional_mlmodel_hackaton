@@ -1,1 +1,1 @@
-# Convolutional_mlmodel_hackaton
+### PicData Modelo de redes convolucionales para verificación
